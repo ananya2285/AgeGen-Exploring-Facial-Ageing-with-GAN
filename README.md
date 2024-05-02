@@ -1,13 +1,20 @@
 # AgeGen-Exploring-Facial-Ageing-with-GAN
 
 Project Overview
+
 Welcome to our facial aging project! In this innovative endeavor, we delve into the captivating realm of facial aging, utilizing cutting-edge deep learning techniques to explore the transformation between youthful and aged faces.
 
 Objectives:
+
 Our primary objective is to understand and simulate the complex process of facial aging using advanced artificial intelligence methods. By doing so, we aim to achieve the following:
 
-Exploration: Gain insights into the biological and physiological factors contributing to facial aging.
-Simulation: Develop a model capable of generating realistic depictions of individuals undergoing age progression and regression.
+Exploration: 
+
+Gain insights into the biological and physiological factors contributing to facial aging.
+
+Simulation:
+
+Develop a model capable of generating realistic depictions of individuals undergoing age progression and regression.
 Understanding: Uncover the underlying patterns and features that distinguish youthful and aged faces.
 Application: Explore potential applications in various fields, including cosmetics, healthcare, and entertainment.
 Importance and Relevance:

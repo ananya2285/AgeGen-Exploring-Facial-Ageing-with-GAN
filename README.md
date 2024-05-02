@@ -47,7 +47,6 @@ We gather original images representing both young and old faces from diverse sou
 **Model Training:** We train our model using state-of-the-art deep learning frameworks, leveraging large-scale datasets to capture the intricate features of facial aging.
 
 **Generation:** Through the innovative cyclic GAN architecture, we generate convincing depictions of individuals undergoing age progression and regression.
-
 **Evaluation:** We assess the quality and realism of the generated images using rigorous evaluation metrics and human perception studies.
 
 # **Bi-directional Transformation:**

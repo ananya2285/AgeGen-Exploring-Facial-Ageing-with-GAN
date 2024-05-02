@@ -82,3 +82,22 @@ While our facial aging model achieves impressive results, it is not without its 
 
 
 **Despite these challenges, our facial aging project represents a significant step forward in understanding and simulating the aging process through advanced deep learning techniques.**
+
+# **Documentation**
+
+**Overview:**
+Our facial aging model is based on a novel cyclic Generative Adversarial Network (GAN) architecture. This section provides detailed documentation covering the architecture, algorithms, and implementation details of our model.
+
+**Model Architecture:**
+The model architecture consists of two main components:
+
+**Generator**: The generator network takes as input a young face image and produces a corresponding aged face image. It consists of several convolutional layers followed by upsampling layers to generate high-resolution images.
+
+**Discriminator:** The discriminator network distinguishes between real and generated aged face images. It is trained to classify whether an input image is real or generated.
+
+
+**Training Procedure:**
+The model is trained using a combination of adversarial loss and cycle consistency loss. The adversarial loss encourages the generator to produce realistic aged face images, while the cycle consistency loss ensures that the transformation between young and aged faces is reversible.
+
+**Implementation Details:**
+Our model is implemented using the TensorFlow deep learning framework. We provide detailed code documentation and comments to explain the implementation of each component and training procedure.

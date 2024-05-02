@@ -43,6 +43,8 @@ Our approach involves the application of advanced deep learning techniques, with
 # **Data Collection:**
 
 We gather original images representing both young and old faces from diverse sources.
+![image](https://github.com/ananya2285/GAN-RMFC-Div-A-Facial-ageing-with-GAN/assets/111894209/a8e1baa6-1fa4-42d9-8b41-6f7ee2a0c2c9)
+
 
 **Model Training:** We train our model using state-of-the-art deep learning frameworks, leveraging large-scale datasets to capture the intricate features of facial aging.
 
@@ -58,13 +60,15 @@ Our facial aging model produces realistic and convincing age transformation effe
 
 **Age Progression Transformations**
 
-Figure 1: Age Progression Transformation
+Figure 1: ![image](https://github.com/ananya2285/GAN-RMFC-Div-A-Facial-ageing-with-GAN/assets/111894209/f5f2c057-69f0-4373-8824-6c38135411c6)
+
 
 In the example above, we see an age progression transformation applied to a young face, resulting in a realistic depiction of how the individual might appear in their older years. The transformation captures subtle changes in facial features such as wrinkles, lines, and texture, contributing to the overall aging effect.
 
 Age Regression Transformations
 
-Figure 2: Age Regression Transformation
+Figure 2: ![image](https://github.com/ananya2285/GAN-RMFC-Div-A-Facial-ageing-with-GAN/assets/111894209/741af656-c220-440d-b98a-48ef4fdc16c5)
+
 
 Conversely, in the age regression transformation depicted above, we observe the reversal of aging effects applied to an older face. The transformation smooths out wrinkles, firms the skin, and restores a youthful appearance to the individual.
 

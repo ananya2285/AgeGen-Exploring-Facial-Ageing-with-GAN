@@ -24,7 +24,7 @@ Uncover the underlying patterns and features that distinguish youthful and aged 
 
 Explore potential applications in various fields, including cosmetics, healthcare, and entertainment.
 
-#**Importance and Relevance:**
+# **Importance and Relevance:**
 
 The study of facial aging holds significant importance and relevance in several domains:
 
@@ -37,11 +37,12 @@ The study of facial aging holds significant importance and relevance in several 
 
 Our approach involves the application of advanced deep learning techniques, with a focus on the revolutionary cyclic Generative Adversarial Network (GAN) architecture. This methodology enables us to achieve bi-directional transformations between youthful and aged faces.
 
-#**Data Collection:**
+# **Data Collection:**
 
 We gather original images representing both young and old faces from diverse sources.
-Model Training: We train our model using state-of-the-art deep learning frameworks, leveraging large-scale datasets to capture the intricate features of facial aging.
-Generation: Through the innovative cyclic GAN architecture, we generate convincing depictions of individuals undergoing age progression and regression.
-Evaluation: We assess the quality and realism of the generated images using rigorous evaluation metrics and human perception studies.
-Bi-directional Transformation:
+**Model Training:** We train our model using state-of-the-art deep learning frameworks, leveraging large-scale datasets to capture the intricate features of facial aging.
+**Generation:** Through the innovative cyclic GAN architecture, we generate convincing depictions of individuals undergoing age progression and regression.
+**Evaluation:** We assess the quality and realism of the generated images using rigorous evaluation metrics and human perception studies.
+
+# **Bi-directional Transformation:**
 One of the key highlights of our project is the bi-directional transformation between youthful and aged faces. Our model seamlessly transitions between these two states, offering a unique perspective on the aging process and its implications.

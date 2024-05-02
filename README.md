@@ -101,3 +101,18 @@ The model is trained using a combination of adversarial loss and cycle consisten
 
 **Implementation Details:**
 Our model is implemented using the TensorFlow deep learning framework. We provide detailed code documentation and comments to explain the implementation of each component and training procedure.
+
+# Future Work
+
+**Potential Enhancements:**
+
+Refining the model architecture to improve performance and efficiency.
+
+Expanding the dataset to include a more diverse range of facial images.
+
+Exploring new applications for facial aging technology, such as virtual makeup simulation or age progression prediction.
+
+
+# Collaboration:
+
+We invite contributions and collaboration from the community to further develop and improve the project over time. Feel free to open issues, submit pull requests, or reach out to us with your ideas and suggestions!
